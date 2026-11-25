@@ -185,4 +185,3 @@ Er prüft Service-Worker-Registrierung, Cache, Offline-Reload, Auto-Erkennung un
 - PBKDF2 ist bewusst langsam. Bei sehr schwachen, selbstgewählten Passwörtern hilft auch die hohe Rundenzahl nur begrenzt – die erzeugten Zufallsschlüssel sind deutlich sicherer.
 - Wer den Schlüssel vergisst, verliert den Zugriff auf alte Nachrichten endgültig. Es gibt kein Backup und keinen Server, der ihn ersetzen kann.
 - Web Crypto, Service Worker und Installation funktionieren nur über `https://` oder `localhost`, nicht über eine normale `http://`-Domain.
-- Die Icons werden mit `scripts/make_icons.py` erzeugt; dafür werden Python und Pillow benötigt. Die fertigen PNGs liegen bereits im Ordner.
