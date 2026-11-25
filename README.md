@@ -1,5 +1,4 @@
-# NEON / CRYPT
-
+# [NEON / CRYPT](https://3comma1.github.io/neoncrypt/)
 Eine kleine, komplett lokale PWA zum **Ver- und Entschlüsseln von Nachrichten**. Du gibst deinem Gegenüber denselben Schlüssel; derjenige verschlüsselt damit, du entschlüsselst damit. Die Kryptografie läuft zur Gänze im Browser – es gibt keine Server-Kommunikation, keine externen Bibliotheken und keine CDNs.
 
 ---
